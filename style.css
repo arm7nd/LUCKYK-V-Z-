@@ -1,0 +1,10 @@
+nav a:first-child img {
+    width:40px;
+}
+
+.banner {
+    background-image: url(../LUCKYK-V-Z-/img/aroma-1238930__340.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 400px;
+}
